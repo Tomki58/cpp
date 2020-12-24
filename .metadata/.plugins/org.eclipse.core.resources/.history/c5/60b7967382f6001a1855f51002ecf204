@@ -1,0 +1,9 @@
+#include <string>
+#include <iostream>
+
+using namespace std;
+
+int main() {
+	string first_string, second_string, third_string;
+	cin >> first_string >> second_string >> third_string;
+}

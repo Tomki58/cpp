@@ -1,0 +1,6 @@
+20:49:03 **** Incremental Build of configuration Debug for project Factorial ****
+make all 
+make: Цель «all» не требует выполнения команд.
+
+20:49:03 Build Finished. 0 errors, 0 warnings. (took 562ms)
+

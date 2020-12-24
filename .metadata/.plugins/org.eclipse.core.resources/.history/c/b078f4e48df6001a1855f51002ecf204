@@ -1,0 +1,15 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+
+	int A, B;
+	int i = A ? A % 2 == 0 : A + 1;
+
+	for (; i <= B; i += 2) {
+		cout << i << ' ';
+	}
+
+	return 0;
+}

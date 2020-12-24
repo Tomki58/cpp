@@ -1,0 +1,9 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:hello,org.eclipse.launchbar.core.descriptorType.default\:A+B,org.eclipse.launchbar.core.descriptorType.default\:Min_String,org.eclipse.launchbar.core.descriptorType.default\:Equation,org.eclipse.launchbar.core.descriptorType.default\:Division,org.eclipse.launchbar.core.descriptorType.default\:Goods,org.eclipse.launchbar.core.descriptorType.default\:Even_Numbers,org.eclipse.launchbar.core.descriptorType.default\:Second_in,org.eclipse.launchbar.core.descriptorType.default\:NOD,org.eclipse.launchbar.core.descriptorType.default\:Binary_Numbers,org.eclipse.launchbar.core.descriptorType.default\:Factorial
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:A+B/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Binary_Numbers/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:hello/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:hello/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

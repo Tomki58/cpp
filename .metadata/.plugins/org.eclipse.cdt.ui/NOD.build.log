@@ -1,0 +1,6 @@
+17:05:27 **** Incremental Build of configuration Debug for project NOD ****
+make all 
+make: Цель «all» не требует выполнения команд.
+
+17:05:27 Build Finished. 0 errors, 0 warnings. (took 570ms)
+

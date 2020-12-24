@@ -1,0 +1,6 @@
+16:48:44 **** Incremental Build of configuration Debug for project Second_in ****
+make all 
+make: Цель «all» не требует выполнения команд.
+
+16:48:45 Build Finished. 0 errors, 0 warnings. (took 566ms)
+

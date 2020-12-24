@@ -1,0 +1,6 @@
+15:18:59 **** Incremental Build of configuration Debug for project Min_String ****
+make all 
+make: Цель «all» не требует выполнения команд.
+
+15:18:59 Build Finished. 0 errors, 0 warnings. (took 567ms)
+

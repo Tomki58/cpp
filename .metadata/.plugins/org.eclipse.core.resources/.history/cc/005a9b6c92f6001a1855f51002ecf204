@@ -1,0 +1,19 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+
+	int a, b;
+	cin >> a >> b;
+
+	if (b > a) {
+		int c = b;
+		b = a;
+		a = c;
+	}
+
+	int r = a - (a / b) * b;
+
+	return 0;
+}

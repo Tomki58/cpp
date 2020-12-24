@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+//	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	int n = 5;
+	int sum = 0;
+
+	return 0;
+}
